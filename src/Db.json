@@ -1,0 +1,18 @@
+{
+    "Client" : [
+        {
+            "id" :1 ,
+            "Nom" :"Idbihi",
+            "Prenom" : "Med",
+            "profession" : "etudiant",
+            "num" : "0639003782"
+        },
+        {
+            "id" :2 ,
+            "Nom" :"ronaldo",
+            "Prenom" : "cris",
+            "profession" : "joueuer",
+            "num" : "0639003782"
+        }
+    ]
+}
